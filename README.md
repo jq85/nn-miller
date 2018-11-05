@@ -1,4 +1,5 @@
 # Neural Net in C++ Tutorial
+# Stopped in min 59
 Source: https://vimeo.com/19569529
 Update: For a newer neural net simulator optimized for image processing, see http://neural2d.net.
 
